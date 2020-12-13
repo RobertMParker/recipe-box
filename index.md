@@ -54,6 +54,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Cosmopolitan](cocktails/cosmopolitan.md)
 * [Gatorade Spritz](cocktails/gatorade-spritz.md)
 * [Gin Gimlet](cocktails/gin-gimlet.md)
+* [Hot Toddy](cocktails/hot-toddy.md)
 * [Lemon Drop](cocktails/lemon-drop.md)
 
 ## Miscellaneous
