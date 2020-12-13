@@ -2,7 +2,7 @@
 
 * Frozen puff pastry - (The original calls for homemade, but thats too much work)
 * 1 pound ground beef
-* Taco Seasoning
+* [Taco Seasoning](../miscellaneous/taco-seasoning.md)
 * 1 1/4 cups crème fraîche
 * 3/4 cup grated cheese
 * Mayo
