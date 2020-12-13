@@ -1,5 +1,3 @@
-# Yanker/Parkang Family Cookbook
-
 This is hosted on a domain that bears my name, but this is a family cookbook.
 
 ## Breakfast
