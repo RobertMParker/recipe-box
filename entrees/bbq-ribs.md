@@ -12,6 +12,8 @@ Dry rub(This is the original recipe in double quantity which is needed for 1 rac
 * 2 tsp each: salt, pepper, cumin, garlic powder, onion powder
 * 1/2 tsp cayenne pepper
 
+[Korean BBQ Sauce](../miscellaneous/korean-bbq-sauce.md)
+
 Instructions:
 1. Remove the lining from the bottom side of the ribs.  A butter knife between the bone and the lining works best
 1. Combine all the ingredients for the dry rub
@@ -25,8 +27,6 @@ Instructions:
 1. Put ribs on an aluminum foil lined baking sheet.  Try to keep them together
 1. Dump most of the sauce on top.
 1. Broil in the oven for a few minutes.  Watch carefully.  Don’t let it burn.
-
-Eileen has made some modifications to the sauce.  Please document.
 
 Sauce recipe: http://www.foodandwine.com/recipes/sticky-baked-chicken-wings
 Modified:
