@@ -6,7 +6,7 @@ Original Cornbread Tamale Pie recipe here: https://cooking.nytimes.com/recipes/1
 
 Modifications:
 * Replaced beef with 1 lb of ground dark turkey and ½ lb of chorizo 
-* Replaced seasoning with taco seasoning in cookbook + extra cumin 
+* Replaced seasoning with [Taco Seasoning](../miscellaneous/taco-seasoning.md) + extra cumin 
 * Replaced tomato sauce with: 3 tablespoons of tomato paste + some pico de gallo 
 * Should use a whole can of black beans
 * Added a small tin of hatch chilis (hot)
