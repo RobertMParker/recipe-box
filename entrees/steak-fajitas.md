@@ -1,7 +1,7 @@
 # Steak Fajitas
 
 Ingredients:
-* Taco Seasoning
+* [Taco Seasoning](../miscellaneous/taco-seasoning.md)
 * 1 lb skirt steak (Good quality skirt steak is key)
 * Onion
 * Green Bell pepper
