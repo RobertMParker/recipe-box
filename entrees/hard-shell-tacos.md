@@ -1,7 +1,7 @@
 # Hard shell Tacos
 
 Ingredients:
-* Taco Seasoning
+* [Taco Seasoning](../miscellaneous/taco-seasoning.md)
 * 1 lb ground beef
 * 1 Yellow Onion
 * 1 cup water
