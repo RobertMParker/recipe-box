@@ -33,9 +33,11 @@ To roll out and form the crust:
 1. Flute the dough gently with your fingers.
 1. Poke the dough with a fork a bunch to make air holes, so the crust doesn’t inflate.
 
-To blind bake(this is optional, and depends on the pie.):
-1. Put a sheet of tin foil in the pan, flush with the bottom and supporting the sides, so they don’t collapse inward.
-1. Add in pie weights or an approximation of a pie weight
-1. Bake for 10-15 minutes at 415 degrees.
+Blind bake the pie crust(this is optional, and depends on the pie.):
+1. Prick the bottom with fork
+1. Blind bake at 350 F lined with aluminum foil and filled with baking beans/weights until sides are dry and firm, 10 to 15 minutes.
+1. Remove weights
+1. Bake until completely dry and firm (including bottom crust) and starting to turn golden, 5 to 10 minutes more. 
+1. Cool thoroughly. 
 
 Source T-City: https://caustedishungry.wordpress.com/2013/07/07/how-to-make-a-pie-crust/
