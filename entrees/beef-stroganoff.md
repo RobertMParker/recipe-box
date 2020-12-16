@@ -9,13 +9,13 @@ Ingredients:
 * 16 ounces crimini mushrooms sliced
 * 2 yellow onion thinly diced
 * 1/4 cup flour
-* 2.5 cups beef stock - double strength using stuff from jar
+* 2.5 cups beef stock - double strength using fancy concentrate stuff from jar
 * 1 tablespoon Worcestershire sauce
 * 1/4 cup sour cream
 * Dijon Mustard - never included, but Eileen wants to try it.
 
 Instructions:
-* Grill ribeye using standard technique and let it rest.
+* Grill [ribeye using standard technique and let it rest](ribeye.md).
 * Eileen likes it less salty, so try and scrub off extra salt.  Bouillon already has salt as well.
 * Make the double strength beef stock
 * Cook the pasta to one minute shy of the directions on the box.
