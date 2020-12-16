@@ -9,6 +9,7 @@ Ingredients:
 * 1 teaspoon vanilla
 * 2 cups chopped pecan
 * Some pecan halves for decoration along the rim
+* 1 [Piecrust](pie-crust.md) blind baked
 
 Directions:
 1. Combine all ingredients except for pecans and mix thoroughly
