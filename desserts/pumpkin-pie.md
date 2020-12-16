@@ -13,13 +13,7 @@ Ingredients:
 * 1/2 teaspoon allspice
 * 1/2 teaspoon salt
 * 1/4 teaspoon cardamom
-
-Blind bake the pie crust:
-1. Prick the bottom with fork
-1. Blind bake at 350 F lined with aluminum foil and filled with baking beans/weights until sides are dry and firm, 10 to 15 minutes.
-1. Remove weights
-1. Bake until completely dry and firm (including bottom crust) and starting to turn golden, 5 to 10 minutes more. 
-1. Cool thoroughly. 
+* 1 [Piecrust](pie-crust.md) blind baked
 
 Filling and baking instructions:
 1. Turn pumpkin into saucepan and stir over direct heat for 10 minutes until somewhat dry and slightly caramelized, stirring frequently. 
