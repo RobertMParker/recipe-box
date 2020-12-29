@@ -1,17 +1,19 @@
 # Korean BBQ Sauce
 
-TODO - This recipe is heavily modified from the original, and I don't think everything is captured here.
-
-Sauce notes:
-* Using original recipe quantities:
-* 1/2 garlic goguchun 
-* 1/2 original goguchun - Mother in laws brand for both.
+Ingredients:
+* 1 cup ketchup
+* 1 cup unseasoned rice vinegar
+* 1/2 cup soy sauce
 * 1/2 cup honey - to taste.  It should be sweet.
-* Bring it to a boil, and let simmer for an hour to reduce. - TODO I think it's a lot longer than an hour
+* 3 tablespoons honey
+* 2 tablespoons of apricot (or mango-apricot or peach) preserves
+* 1.5 tbsp garlic gojuchang 
+* 1.5 tbsp original gojuchang - (prefer Mother in laws brand for both)
 
-Modified:
-* 3 tablespoons of honey
-* 2 tablespoons of apricot (or mango-apricot or peach) preserves 
-* 1 extra tablespoon of gc 
+Steps:
+1. Combine all ingredients in a saucepan and bring to a boil.
+1. Let simmer for ~2 hours to reduce.
+
+Notes: This makes enough sauce for 1+ rack of ribs.  And it's not really Korean.
 
 Original BBQ sauce source: http://www.foodandwine.com/recipes/sticky-baked-chicken-wings
