@@ -29,4 +29,4 @@ Suggested Accoutrements:
 
 Notes: Makes 6 servings.  We call it Tamalepaj, because it's sorta like [Tacopaj](tacopaj.md), but more like a tamale.
 
-Original Cornbread Tamale Pie recipe here: https://cooking.nytimes.com/recipes/12015-cornbread-tamale-pie?action=click&module=Local%20Search%20Recipe%20Card&pgType=search&rank=21
+Original Cornbread Tamale Pie recipe here: https://cooking.nytimes.com/recipes/12015-cornbread-tamale-pie
