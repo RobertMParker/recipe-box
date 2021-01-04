@@ -43,6 +43,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Tomato Soup](entrees/tomato-soup.md)
 
 ## Desserts
+* [Brownies](desserts/brownies.md)
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
 * [Double Chocolate Banana Bread](desserts/double-chocolate-banana-bread.md)
 * [Funfetti Cake](desserts/funfetti-cake.md)
