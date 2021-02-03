@@ -25,6 +25,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Bolognese](entrees/bolognese.md)
 * [Chicken Jook](entrees/chicken-jook.md)
 * [Chicken Noodle Soup](entrees/chicken-noodle-soup.md)
+* [Enchiladas With Chile Verde](entrees/enchiladas-with-chile-verde.md)
 * [Fish Tacos](entrees/fish-tacos.md)
 * [French Lentils](entrees/french-lentils.md)
 * [Grilled Rack of Lamb](entrees/grilled-rack-of-lamb.md)
