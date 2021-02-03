@@ -34,7 +34,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Lemon Garlic Braised Chicken Thighs](entrees/lemon-garlic-braised-chicken-thighs.md)
 * [Lentil Soup](entrees/lentil-soup.md)
 * [Meatloaf Sammys](entrees/meatloaf-sammys.md)
-* [Pork Chile Verde.md](entrees/pork-chile-verde.md)
+* [Pork Chile Verde](entrees/pork-chile-verde.md)
 * [Ribeye](entrees/ribeye.md)
 * [Shashuka](entrees/shashuka.md)
 * [Sloppy Joes](entrees/sloppy-joes.md)
