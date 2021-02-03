@@ -26,6 +26,8 @@ Steps:
 1. Season to taste with salt and lime juice
 1. Return pork to sauce and stir gently to combine
 
-Notes: This makes a couple extra cups of chile verde.  This is excellent on over easy eggs.  Or use it to make enchiladas.
+Notes: 
+1. Last time we made this, we removed all the seeds from the peppers.  It needed some more heat, so leave some seeds in.  
+1. This makes about 4-5 extra cups of chile verde.  This is excellent on over easy eggs.  Or use it to make [enchiladas](enchiladas-with-chile-verde.md).
 
 Original Source: https://www.seriouseats.com/recipes/2017/03/easy-pressure-cooker-pork-chile-verde-recipe.html
