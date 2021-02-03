@@ -32,6 +32,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Grilled Shrimp Skewers](entrees/grilled-shrimp-skewers.md)
 * [Hard Shell Tacos](entrees/hard-shell-tacos.md)
 * [Italian Wedding Soup](entrees/italian-wedding-soup.md)
+* [Korean Tofu Soup](entrees/korean-tofu-soup.md)
 * [Lemon Garlic Braised Chicken Thighs](entrees/lemon-garlic-braised-chicken-thighs.md)
 * [Lentil Soup](entrees/lentil-soup.md)
 * [Meatloaf Sammys](entrees/meatloaf-sammys.md)
