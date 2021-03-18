@@ -14,7 +14,7 @@ Ingredients:
 * 1 cup Toll House Semi Sweet Chocolate Chips (Trader Joes are good too, but must be semi-sweet)
 * 1 cups chopped pecans (walnuts are more bitter)
 
-Instructions:
+Dough Instructions:
 1. Start toasting the pecans in a frying pan.  Keep an eye on these so they don't burn.
 1. Mix softened butter, sugars, vanilla.
 1. Mix in egg.
@@ -24,7 +24,11 @@ Instructions:
 1. Mix in toasted pecans while they are still piping hot.
 1. Cover dough and refridgerate for 24 hours.
 
-
-I bake cookies to order for 15 minutes at 350.  
+Baking Instructions:
+1. Preheat oven to 350 F
+1. Put a layer of parchment paper on baking sheet
+1. Scoop dough out with an icecream scooper
+1. Form each cookie by hand into a very uniform disc
+1. Bake for 15 minutes, and let cool.  The cookie should crunch up a bit while it cools, but shouldn't be crunchy immediately.
 
 Note: The result is a little crisp on the outside, but still soft in the middle.  Something about the hot nuts makes them a bit richer and helps the texture.
