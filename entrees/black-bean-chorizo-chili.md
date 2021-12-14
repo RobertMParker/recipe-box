@@ -7,7 +7,6 @@
 * 1 red bell pepper, chopped
 * 1/4 teaspoon of dried hot red pepper flakes (add more if you like heat!)
 * 2 tablespoons of cumin (add more if you like cumin!)
-* 1/2 teaspoon salt
 * 2 tablespoons olive oil
 * 3 cups of chicken broth
 * 3 (15-19 oz) cans of black beans, drained and rinsed (if you like more beans, add more beans!)
@@ -23,5 +22,4 @@ Accoutrements:
 1. Cook chorizo, onion, garlic, bell pepper, pepper flakes, cumin, and salt in oil in 3 qt heavy saucepan over moderate heat, stirring until vegetables are softened, about 10 minutes.
 1. Add broth and beans and simmer, partially covered for 15 minutes. 
 1. Lightly mash beans with potato masher to thicken. 
-
-Chorizo is the new bacon and belongs in everything. Chorizo is the new black.
+1. Season with salt and pepper as needed
