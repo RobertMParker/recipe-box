@@ -45,6 +45,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Tacopaj](entrees/tacopaj.md)
 * [Tamalepaj](entrees/tamalepaj.md)
 * [Tomato Soup](entrees/tomato-soup.md)
+* [Turkey Tomatillo Chili](entrees/turkey-tomatillo-chili.md)
 
 ## Desserts
 * [Brownies](desserts/brownies.md)
