@@ -47,6 +47,12 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Tomato Soup](entrees/tomato-soup.md)
 * [Turkey Tomatillo Chili](entrees/turkey-tomatillo-chili.md)
 
+## Smoker
+* [Brisket](smoker/brisket.md)
+* [Char Siu](smoker/char-siu.md)
+* [Pork Ribs](smoker/pork-ribs.md)
+* [Pulled Pork](smoker/pulled-pork.md)
+
 ## Desserts
 * [Brownies](desserts/brownies.md)
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
