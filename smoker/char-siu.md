@@ -1,13 +1,24 @@
 Ingredients:
 * 3 pounds pork shoulder/butt with bone cut out
   * It's way easier to buy this bone out, than trying to debone a pork shoulder
-* Marinate ingredients - Eileen TODO
+* Marinade ingredients
+  * 2/3 cup sugar
+  * 6 tablespoons soy sauce
+  * 3 tablespoons rice wine
+  * 1 tablespoon oyster sauce
+  * 1 tablespoon hoisin sauce
+  * 1 tablespoon sesame oil
+  * 1 tablespoon ginger powder
+  * 1 tablespoon garlic
+  * 1.5 teaspoons 5 spice
+  * 1 teaspoon white pepper
+  * 1 teaspoon salt
 * Glaze ingredients - Eileen TODO
 
 
 Steps:
 1. Cut into 1 inch stick slices against the grain
-1. Marinade for 4-24 hours
+1. Marinade for 4-24 hours (perferrably 24)
 1. Preheat smoker to 225
 1. Smoke for ~50 minutes - DON'T THROW OUT THE MARINADE
 1. Baste with reserved marinade
