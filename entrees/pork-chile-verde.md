@@ -1,7 +1,7 @@
 # Pork Chile Verde
 
 Ingredients:
-* 2 pounds boneless pork shoulder, cut into 1-inch chunks
+* 2 pounds boneless pork shoulder, cut into 1-inch/bite-sized chunks
 * 1.25 pounds tomatillos, quartered and husks discarded
 * 2/3 pound Poblano peppers, roughly chopped, seeds in
 * 6 ounces Anaheim or Cubanelle peppers, roughly chopped, seeds in
