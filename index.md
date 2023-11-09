@@ -54,6 +54,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Pulled Pork](smoker/pulled-pork.md)
 
 ## Desserts
+* [Banana Cream Pie](desserts/banana-cream-pie.md)
 * [Brownies](desserts/brownies.md)
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
 * [Double Chocolate Banana Bread](desserts/double-chocolate-banana-bread.md)
