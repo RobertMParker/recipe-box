@@ -17,6 +17,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Sweet Potato Casserole](sides/sweet-potato-casserole.md)
 
 ## Entrees
+* [Birria](entrees/birria.md)
 * [Bacon Wrapped Hotdogs](entrees/bacon-wrapped-hotdogs.md)
 * [Baked Ziti](entrees/baked-ziti.md)
 * [BBQ Ribs](entrees/bbq-ribs.md)
