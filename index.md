@@ -40,6 +40,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Parmesan Chicken](entrees/parmesan-chicken.md)
 * [Pork Chile Verde](entrees/pork-chile-verde.md)
 * [Ribeye](entrees/ribeye.md)
+* [Roast Chicken](roast-chicken.md)
 * [Shashuka](entrees/shashuka.md)
 * [Sloppy Joes](entrees/sloppy-joes.md)
 * [Steak Fajitas](entrees/steak-fajitas.md)
