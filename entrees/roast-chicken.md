@@ -22,7 +22,6 @@ Roast Chicken:
 1. Cook until breastmeat above 150, chicken legs should be ~170
 1. Reduce temp if it’s browning too much
 1. Rest on cutting board
-1. Deglaze baking sheet and put in jus
 
 Notes from cook on 2023/1/31:
 * Didn't really have time for a dry brine. It sat for maybe 10 minutes.
