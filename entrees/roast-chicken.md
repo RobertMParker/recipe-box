@@ -8,16 +8,6 @@ Chicken Ingredients:
 * Mayonnaise
 * Black pepper
 
-Optional Chicken Jus Ingredients:
-* Chicken backbone and neck
-* Carrots
-* Onion
-* Celery
-* Water
-* Drippings
-* Leftover herbs
-* Corn starch?
-
 Roast Chicken:
 1. Preheat oven to 450
 1. Combine salt and baking powder
@@ -34,16 +24,6 @@ Roast Chicken:
 1. Rest on cutting board
 1. Deglaze baking sheet and put in jus
 
-Chicken jus(Optional):
-1. Cut up chicken backbone and neck, and brown in dutch oven with some oil
-1. Add carrots, onions, celery
-1. Deglaze with water
-1. Add in some herbs + stems
-1. Strain
-1. Add in drippings
-1. Salt to taste + reduce if needed
-1. Thicken with corn starch if desired
-
 Notes from cook on 2023/1/31:
 * Didn't really have time for a dry brine. It sat for maybe 10 minutes.
 * Used leftover basil aioli mixed with more mayo, sage, thyme, and a bit of rosemary.
@@ -51,5 +31,11 @@ Notes from cook on 2023/1/31:
 * Rested the chicken for a bit. Ate the wings while the bird was resting. Cut off the thigh+leg combo and ate, and let the breasts rest for longer.
 * Next time, salt the chicken on one baking sheet, and then move it to a different baking sheet with rack. No foil. I would have liked to save the drippings, but the drippings stuck on foil and lots of extra salt that fell off when applying.
 * Consider adding onion powder into herb mayo
+
+Notes from cook on 2023/2/13:
+* Dry brined for 2-3 hours, but didn't pat it dry.
+* ~90 minutes at 425. Final temp of the deep breast was 155.
+* I made the jus, and it took a lot more touch time than the chicken, and it was just ok.  So I removed those steps from the recipe, since I won't be doing it again.
+* Blended the herbs and mayo together. It could have used more herbs this time.
 
 Original Source is from Kenji: https://www.youtube.com/watch?v=yUcZqyGrWYw
