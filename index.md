@@ -1,6 +1,8 @@
 This is hosted on a domain that bears my name, but this is a family cookbook.
 
 ## Breakfast
+* [Cinnamon Rolls](breakfast/cinnamon-rolls.md)
+* [Coffee Cake](breakfast/coffee-cake.md)
 * [Pancakes](breakfast/pancakes.md)
 
 ## Appetizers
@@ -42,6 +44,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Ribeye](entrees/ribeye.md)
 * [Roast Chicken](entrees/roast-chicken.md)
 * [Shashuka](entrees/shashuka.md)
+* [Sheet Pan Chicken and Roast Potatoes](entrees/sheet-pan-chicken-and-roast-potatoes.md)
 * [Sloppy Joes](entrees/sloppy-joes.md)
 * [Steak Fajitas](entrees/steak-fajitas.md)
 * [Tacopaj](entrees/tacopaj.md)
@@ -61,6 +64,8 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
 * [Double Chocolate Banana Bread](desserts/double-chocolate-banana-bread.md)
 * [Funfetti Cake](desserts/funfetti-cake.md)
+* [Ginger Snaps](desserts/ginger-snaps.md)
+* [Oatmeal Chocolate Chip Cookies](desserts/oatmeal-chocolate-chip-cookies.md)
 * [Pecan Pie](desserts/pecan-pie.md)
 * [Pie Crust](desserts/pie-crust.md)
 * [Pumpkin Pie](desserts/pumpkin-pie.md)
