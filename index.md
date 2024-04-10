@@ -57,6 +57,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Char Siu](smoker/char-siu.md)
 * [Pork Ribs](smoker/pork-ribs.md)
 * [Pulled Pork](smoker/pulled-pork.md)
+* [Tri-tip](smoker/tri-tip.md)
 
 ## Desserts
 * [Banana Cream Pie](desserts/banana-cream-pie.md)
@@ -80,6 +81,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 
 ## Miscellaneous
 * [Chicken Stock](miscellaneous/chicken-stock.md)
+* [Chimichurri](miscellaneous/chimichurri.md)
 * [Korean BBQ Sauce](miscellaneous/korean-bbq-sauce.md)
 * [Sourdough Bread](miscellaneous/sourdough-bread.md)
 * [Taco Seasoning](miscellaneous/taco-seasoning.md)
