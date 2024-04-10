@@ -2,7 +2,7 @@
 
 Ingredients:
 * [Taco Seasoning](../miscellaneous/taco-seasoning.md)
-* 1 lb skirt steak (Or bavette)
+* 1 lb skirt steak (Or Bavette. Or Hanger steak)
 * Onion
 * Green Bell pepper
 * Lime
