@@ -19,6 +19,6 @@ Steps:
 Slicing Instructions:
 Cut in slices against the grain. The grain in a tri-tip changes directions, so watch out for that. 
 
-Pairs extremely well with [chimichurri](miscellaneous/chimichurri.md)
+Pairs extremely well with [chimichurri](../miscellaneous/chimichurri.md)
 
 Original Source:  https://heygrillhey.com/smoked-tri-tip/ 
