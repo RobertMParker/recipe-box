@@ -64,6 +64,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Brownies](desserts/brownies.md)
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
 * [Chocolate Chip Cookies #2](desserts/chocolate-chip-cookies-2.md)
+* [Coconut Macaroons](desserts/coconut-macaroons.md)
 * [Double Chocolate Banana Bread](desserts/double-chocolate-banana-bread.md)
 * [Funfetti Cake](desserts/funfetti-cake.md)
 * [Ginger Snaps](desserts/ginger-snaps.md)
