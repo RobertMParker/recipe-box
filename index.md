@@ -65,6 +65,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
 * [Chocolate Chip Cookies #2](desserts/chocolate-chip-cookies-2.md)
 * [Coconut Macaroons](desserts/coconut-macaroons.md)
+* [Creme Patissiere](desserts/creme-patissiere.md)
 * [Double Chocolate Banana Bread](desserts/double-chocolate-banana-bread.md)
 * [Funfetti Cake](desserts/funfetti-cake.md)
 * [Ginger Snaps](desserts/ginger-snaps.md)
@@ -73,6 +74,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Pie Crust](desserts/pie-crust.md)
 * [Pumpkin Pie](desserts/pumpkin-pie.md)
 * [Smores Cookies](desserts/smores-cookies.md)
+* [Whipped Cream](desserts/whipped-cream.md)
 
 ## Cocktails
 * [Cosmopolitan](cocktails/cosmopolitan.md)
