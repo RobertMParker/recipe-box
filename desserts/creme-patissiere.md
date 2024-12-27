@@ -18,6 +18,7 @@ Instructions:
 1. When the milk is ready, slowly ladle about one-third of the hot milk into the egg mixture, whisking constantly.
 1. Pour the egg-milk mixture back into the hot milk and and continue to whisk over medium heat until the mixture is as thick as lightly whipped cream. It must come just to a boil — there is a fine line between thickened and curdled cream. Remove from the heat and immediately pour through the sieve into the bowl. (If left in the pan too long, the pastry cream will continue to cook.) Let cool for 10 minutes, stirring occasionally to release heat.
 1. When the pastry cream has cooled (about 140?F), stir in the butter one piece at a time, whisking until smooth before adding the next piece.
+1. To cool the cream, cover the bowl with plastic wrap and press the plastic onto the pastry cream. This will keep the pastry cream from developing a skin. Place in refrigerator to chill. Do not whisk the pastry cream once it is cold. Doing that will break down and thin the cream.
 
 Notes: This is always described on bakeoff as being finicky, but I haven't had any trouble with it if you just focus on it.  
 
