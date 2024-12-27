@@ -60,6 +60,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Tri-tip](smoker/tri-tip.md)
 
 ## Desserts
+* [Apple Pie](desserts/apple-pie.md)
 * [Banana Cream Pie](desserts/banana-cream-pie.md)
 * [Brownies](desserts/brownies.md)
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
