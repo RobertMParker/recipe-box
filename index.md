@@ -41,6 +41,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Meatloaf Sammys](entrees/meatloaf-sammys.md)
 * [Parmesan Chicken](entrees/parmesan-chicken.md)
 * [Pork Chile Verde](entrees/pork-chile-verde.md)
+* [Pozole](entrees/pozole.md)
 * [Ribeye](entrees/ribeye.md)
 * [Roast Chicken](entrees/roast-chicken.md)
 * [Shashuka](entrees/shashuka.md)
