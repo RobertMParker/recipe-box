@@ -23,6 +23,7 @@ This is hosted on a domain that bears my name, but this is a family cookbook.
 * [Bacon Wrapped Hotdogs](entrees/bacon-wrapped-hotdogs.md)
 * [Baked Ziti](entrees/baked-ziti.md)
 * [BBQ Ribs](entrees/bbq-ribs.md)
+* [Beef Stew](entrees/beef-stew.md)
 * [Beef Stroganoff](entrees/beef-stroganoff.md)
 * [Black Bean Chorizo Chili](entrees/black-bean-chorizo-chili.md)
 * [Bolognese](entrees/bolognese.md)
