@@ -1,5 +1,3 @@
-This is hosted on a domain that bears my name, but this is a family cookbook.
-
 ## Breakfast
 * [Cinnamon Rolls](breakfast/cinnamon-rolls.md)
 * [Coffee Cake](breakfast/coffee-cake.md)
