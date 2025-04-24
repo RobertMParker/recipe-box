@@ -28,3 +28,6 @@ Note: Perfectly baked pumpkin pie has no cracks on its surface. Baking hot filli
 Note: I prefer it cold, so bake a day ahead of time and refridgerate.  I think this helps the spice flavor develop.
 
 Original source(spice mix was changed): https://food52.com/recipes/15143-meta-given-s-pumpkin-pie
+
+Notes: 
+* Thanksgiving '24: I think the cooking time is off. Baked for 45 minutes. 400 for 25, then 350 for the rest 
