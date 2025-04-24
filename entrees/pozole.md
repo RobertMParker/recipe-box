@@ -40,3 +40,5 @@ Original Recipe: https://cooking.nytimes.com/recipes/1020110-pressure-cooker-chi
 Notes: 
 * I changed the protein from chicken to pork butt and adjusted the cooking time
 * 4 chipotle peppers makes for a spicy soup.  But consider adding more dried spices, it can take it. Also consider adding different peppers as well.
+* Added dried passilo Chile. Soaked in some hot water. Cut off top. Cut in half and scrapped seeds out. Then diced it up.
+* Maybe recipe size can be doubled?
