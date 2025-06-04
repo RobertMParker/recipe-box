@@ -8,10 +8,9 @@
 * Bay leaves
 * Fresh thyme
 * 1 bag of egg noodles
-* Fresh dill
-* 1 thing of chicken stock - homemade is best
+* 3.5 quarts of chicken stock - homemade is best
 
-Makes 4-6 servings.
+Makes 10 small deli container servings.
 
 1. Salt and pepper the chicken thighs.
 1. Cook the chicken thighs in the dutch oven with some olive oil.  You want to get some good color on the thighs. Flipping every ~7 minutes for ~20 minutes total.
