@@ -43,3 +43,4 @@ Notes:
 * 4 chipotle peppers makes for a spicy soup.  But consider adding more dried spices, it can take it. Also consider adding different peppers as well.
 * Added dried passilo Chile. Soaked in some hot water. Cut off top. Cut in half and scrapped seeds out. Then diced it up.
 * Makes 7 servings
+* Tried a double batch once, and it was too full in the instapot.
