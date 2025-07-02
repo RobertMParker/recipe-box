@@ -41,6 +41,7 @@
 * [Lentil Soup](entrees/lentil-soup.md)
 * [Meatloaf Sammys](entrees/meatloaf-sammys.md)
 * [Parmesan Chicken](entrees/parmesan-chicken.md)
+* [Pizza](entrees/pizza.md)
 * [Pork Chile Verde](entrees/pork-chile-verde.md)
 * [Pozole](entrees/pozole.md)
 * [Ribeye](entrees/ribeye.md)
