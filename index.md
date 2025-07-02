@@ -1,6 +1,7 @@
 ## Breakfast
 * [Cinnamon Rolls](breakfast/cinnamon-rolls.md)
 * [Coffee Cake](breakfast/coffee-cake.md)
+* [Overnight Oats](breakfast/overnight-oats.md)
 * [Pancakes](breakfast/pancakes.md)
 
 ## Appetizers
@@ -93,5 +94,15 @@
 * [Sourdough Bread](miscellaneous/sourdough-bread.md)
 * [Taco Seasoning](miscellaneous/taco-seasoning.md)
 
+
+## Meal Prep
+* [Beef Stew](entrees/beef-stew.md)
+* [Black Bean Chorizo Chili](entrees/black-bean-chorizo-chili.md)
+* [Black Bean Stew](entrees/black-bean-stew.md)
+* [Chicken Noodle Soup](entrees/chicken-noodle-soup.md)
+* [Lentil Soup](entrees/lentil-soup.md)
+* [Pozole](entrees/pozole.md)
+* [Turkey Tomatillo Chili](entrees/turkey-tomatillo-chili.md)
+  
 ## Other
 * [TODO](TODO.md)
