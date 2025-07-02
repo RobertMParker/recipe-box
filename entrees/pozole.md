@@ -13,7 +13,7 @@ Ingredients:
 * 1.5 pounds pork butt (country style ribs are the easiest)
 * 5 cups chicken stock
 * Dried Passilo Chile - soak in hot water, remove stem, dice, seeds optional.
-* 1 cup can corn
+* 1 can corn
 * 1(29-ounce) can hominy, rinsed and well drained
 * Juice of 1 lime
 
