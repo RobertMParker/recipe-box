@@ -12,7 +12,8 @@ Ingredients:
 * 1/2 teaspoon dried oregano
 * 1.5 pounds pork butt (country style ribs are the easiest)
 * 5 cups chicken stock
-* 1 cup frozen corn
+* Dried Passilo Chile - soak in hot water, remove stem, dice, seeds optional.
+* 1 cup can corn
 * 1(29-ounce) can hominy, rinsed and well drained
 * Juice of 1 lime
 
@@ -41,4 +42,4 @@ Notes:
 * I changed the protein from chicken to pork butt and adjusted the cooking time
 * 4 chipotle peppers makes for a spicy soup.  But consider adding more dried spices, it can take it. Also consider adding different peppers as well.
 * Added dried passilo Chile. Soaked in some hot water. Cut off top. Cut in half and scrapped seeds out. Then diced it up.
-* Maybe recipe size can be doubled?
+* Makes 7 servings
