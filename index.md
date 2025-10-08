@@ -50,6 +50,7 @@
 * [Sheet Pan Chicken and Roast Potatoes](entrees/sheet-pan-chicken-and-roast-potatoes.md)
 * [Sloppy Joes](entrees/sloppy-joes.md)
 * [Steak Fajitas](entrees/steak-fajitas.md)
+* [Swordfish](entrees/swordfish.md)
 * [Tacopaj](entrees/tacopaj.md)
 * [Tamalepaj](entrees/tamalepaj.md)
 * [Tomato Soup](entrees/tomato-soup.md)
