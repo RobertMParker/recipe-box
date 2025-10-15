@@ -1,8 +1,8 @@
 # Chicken stock
 
 Ingredients:
-* 1 chicken carcass - at least one, but more is more
-* 2 large carrot (6–8 oz.), scrubbed, halved
+* 3 chicken carcasses
+* 2 large carrot halved
 * 2 large yellow onions, unpeeled, halved
 * 1 head of garlic, halved crosswise
 * 1" piece ginger, unpeeled, halved
