@@ -1,3 +1,8 @@
+---
+layout: default
+title: Recipes
+---
+
 ## Breakfast
 * [Cinnamon Rolls](breakfast/cinnamon-rolls.md)
 * [Coffee Cake](breakfast/coffee-cake.md)
