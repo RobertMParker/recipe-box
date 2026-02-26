@@ -19,7 +19,7 @@ Directions:
 1. Mix in baking soda and salt.
 1. Gently mix in the flour.
 1. Gently mix in the chocolate chips until evenly distributed.
-1. Refridgerate dough for at least 3 hours, but ideally overnight.
+1. Cover and refridgerate dough for at least 3 hours, but ideally overnight.
 
 Baking instructions:
 1. I like to bake these to order for warm cookies, so I typically bake 2-3 at a time. If you try to do a whole baking sheet, you will probably need to tweak the baking temp/time to compensate.
