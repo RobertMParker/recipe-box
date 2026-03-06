@@ -6,6 +6,7 @@ Ingredients:
 * 1 red bell pepper - chopped
 * 1 green bell pepper - chopped
 * 1 jalapeno w/ seeds - chopped
+* 2 serrano w/ seeds - chopped
 * 1 onion - chopped
 * 1 tbsp chili powder
 * 1 tbsp ground cumin
