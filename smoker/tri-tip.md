@@ -12,7 +12,7 @@ Steps:
 1. Turn off the smoker and leave open to rest
 1. While the tri-tip is resting, pre-heat the grill for 15-20 minutes
 1. Sear the tri-tip on all sides.
-1. Internal temp should reach ~135
+1. Internal temp should reach ~140
 1. Rest for a 5-10 minutes
 
 
@@ -23,4 +23,5 @@ Pairs extremely well with [chimichurri](../miscellaneous/chimichurri.md)
 
 Original Source:  https://heygrillhey.com/smoked-tri-tip/ 
 
-Notes 4/24: Pulled at 125, and it got to 130 while resting. It was good, but consider going a bit longer.
+Notes 4/24/24: Pulled at 125, and it got to 130 while resting. It was good, but consider going a bit longer.
+Notes 3/6/26: Pulled at 135. It was good, but consider going a bit longer.
