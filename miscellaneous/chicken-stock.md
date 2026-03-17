@@ -6,6 +6,7 @@ Ingredients:
 * 2 large yellow onions, unpeeled, halved
 * 1 head of garlic, halved crosswise
 * 1" piece ginger, unpeeled, halved
+* 2 sticks of celery, broken in half to fit
 * Handful of thyme
 * 2 bay leaves
 * 1 tsp. whole black peppercorns
