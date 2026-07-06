@@ -22,11 +22,11 @@ title: Recipes
 * [Sweet Potato Casserole](sides/sweet-potato-casserole.md)
 
 ## Entrees
-* [Birria](entrees/birria.md)
 * [Bacon Wrapped Hotdogs](entrees/bacon-wrapped-hotdogs.md)
 * [Baked Ziti](entrees/baked-ziti.md)
 * [Beef Stew](entrees/beef-stew.md)
 * [Beef Stroganoff](entrees/beef-stroganoff.md)
+* [Birria](entrees/birria.md)
 * [Black Bean Chorizo Chili](entrees/black-bean-chorizo-chili.md)
 * [Black Bean Stew](entrees/black-bean-stew.md)
 * [Bolognese](entrees/bolognese.md)
