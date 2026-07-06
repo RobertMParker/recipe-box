@@ -2,9 +2,9 @@
 
 Ingredients:
 * 5 pounds chuck roast, cut into large 3-inch chunks
-* 1/2 tablespoon kosher salt
-* 1/2 tablespoon black pepper
-* Olive oil
+* kosher salt
+* black pepper
+* olive oil
 * 8 guajillo chiles
 * 5 ancho chiles
 * 5 árbol chiles
