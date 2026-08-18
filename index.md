@@ -30,6 +30,7 @@ title: Recipes
 * [Black Bean Chorizo Chili](entrees/black-bean-chorizo-chili.md)
 * [Black Bean Stew](entrees/black-bean-stew.md)
 * [Bolognese](entrees/bolognese.md)
+* [Corn Chowder](entrees/corn-chowder.md)
 * [Chicken Jook](entrees/chicken-jook.md)
 * [Chicken Noodle Soup](entrees/chicken-noodle-soup.md)
 * [Enchiladas With Chile Verde](entrees/enchiladas-with-chile-verde.md)
