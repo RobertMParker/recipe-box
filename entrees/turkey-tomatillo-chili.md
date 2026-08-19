@@ -26,7 +26,7 @@ Steps:
 
 Serving Accourement:
 * Sour cream (or greek yogurt)
-* Shredded Mexican Cheese blench
+* Shredded Mexican Cheese blend
 * Avocado?
 * Pico de gallo?
 
