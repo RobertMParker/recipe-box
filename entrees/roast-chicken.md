@@ -2,8 +2,8 @@
 
 Chicken Ingredients:
 * Whole chicken
-* 3 tbsp Kosher salt
-* 1.5 tbsp Baking powder
+* 2 tbsp Kosher salt
+* 1 tbsp Baking powder
 * Poultry herbs(rosemary, sage, basil, thyme)
 * Mayonnaise
 * Black pepper
@@ -36,5 +36,13 @@ Notes from cook on 2023/2/13:
 * ~90 minutes at 425. Final temp of the deep breast was 155.
 * I made the jus, and it took a lot more touch time than the chicken, and it was just ok.  So I removed those steps from the recipe, since I won't be doing it again.
 * Blended the herbs and mayo together. It could have used more herbs this time.
+
+Notes from cook on 2026/10/28:
+* Dry brined for ~18 hours
+* ~75 minutes at 425. Final temp of deep breast was 155.
+* Used the Meater probe to help calculate most of the cooking time, but still had to add 7 minutes after using instant read thermometer.
+* Chopped up herbs(fresh rosemary, sage, and basil with dried thyme) and mixed with mayo
+* Roasted spine and neck on the same pan for 30 minutes, then took out, and saved for stock.
+* This was great.
 
 Original Source is from Kenji: https://www.youtube.com/watch?v=yUcZqyGrWYw
