@@ -90,6 +90,7 @@ title: Recipes
 * [Lemon Drop](cocktails/lemon-drop.md)
 
 ## Miscellaneous
+* [Carolina Mustard BBQ Sauce](miscellaneous/carolina-mustard-bbq-sauce.md)
 * [Chicken Stock](miscellaneous/chicken-stock.md)
 * [Chimichurri](miscellaneous/chimichurri.md)
 * [Korean BBQ Sauce](miscellaneous/korean-bbq-sauce.md)
