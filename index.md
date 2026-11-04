@@ -94,6 +94,7 @@ title: Recipes
 * [Chicken Stock](miscellaneous/chicken-stock.md)
 * [Chimichurri](miscellaneous/chimichurri.md)
 * [Korean BBQ Sauce](miscellaneous/korean-bbq-sauce.md)
+* [Salsa Verde](miscellaneous/salsa-verde.md)
 * [Sourdough Bread](miscellaneous/sourdough-bread.md)
 * [Taco Seasoning](miscellaneous/taco-seasoning.md)
 
