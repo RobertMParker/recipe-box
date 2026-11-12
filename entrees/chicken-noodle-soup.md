@@ -8,7 +8,7 @@
 * Bay leaves
 * Fresh thyme
 * 1 bag of egg noodles
-* 3.5 quarts of chicken stock - homemade is best
+* 4 quarts of chicken stock - homemade is best
 
 Makes 10 small deli container servings.
 
